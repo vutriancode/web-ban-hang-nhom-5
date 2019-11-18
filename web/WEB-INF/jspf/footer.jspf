@@ -1,0 +1,40 @@
+<%-- any content can be specified here e.g.: --%>
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+	<footer id="footer"><!--Footer-->
+		<div class="footer-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-2">
+						<div class="companyinfo">
+							<h2><span>shop</span>nhom5</h2>
+							<p>Cam kết về chất lượng sản phẩm và bảo hành</p>
+						</div>
+      
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="footer-widget">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-2">
+						<div class="single-widget">
+                                                    <h2><a href="#">Contact Us</a></h2>
+						</div>
+					</div>
+
+					<div class="col-sm-2">
+						<div class="single-widget">
+                                                    <h2><a href="#">About Shopnhom5</a></h2>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		
+	</footer><!--/Footer-->
+</body>
+</html>
